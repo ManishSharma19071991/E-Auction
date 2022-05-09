@@ -34,7 +34,7 @@ namespace EAuction.API.Controllers
         }
 
         /// <summary>
-        /// Add seller
+        /// Add seller.
         /// </summary>
         /// <param name="value"></param>
         /// <returns></returns>
